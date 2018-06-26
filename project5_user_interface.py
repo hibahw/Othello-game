@@ -1,7 +1,5 @@
 #Hibah Wasim
-#10316611
 #project5_user_interface.py
-#ICS 32 Project 5
 
 import project5_game_logic
 import tkinter
