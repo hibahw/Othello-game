@@ -1,7 +1,5 @@
 #Hibah Wasim
-#10316611
 #project5_game_logic.py
-#ICS 32 Project 5
 
 def blank(rows, cols):
     board = []
